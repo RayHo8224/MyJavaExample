@@ -1,6 +1,6 @@
 package com.ray.basic;
 
-public class SwitchCaseTest {
+public class TestSwitchCase {
 
 	public static void main(String[] args) {
 		int x=12;

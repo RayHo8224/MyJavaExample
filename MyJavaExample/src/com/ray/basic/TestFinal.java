@@ -1,6 +1,6 @@
 package com.ray.basic;
 
-public class FinalTest {
+public class TestFinal {
 
 	public static void main(String[] args) {
 		final int x=10; //設定為final,值指能給一次
